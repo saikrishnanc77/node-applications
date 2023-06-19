@@ -1,0 +1,43 @@
+node modules
+ - automatically created
+config
+ - database connections 
+ - environment variables
+ - credentials files including API keys for external services
+
+
+models
+ - contains data models
+ - data models specify defined by an ORM library
+
+routes
+ - specific routes for all entities
+ - one file for each logical set of routes
+
+views
+ - contains templated
+ - templates dynamically write HTML, CSS, JavaScript for the client
+
+public
+ -  contains static content - html, css, javascript
+
+
+
+app.js
+routes.js
+package.js
+
+
+
+api structure
+
+node_modules
+config
+models
+routes
+app.js
+routes.js
+pacakge.json
+
+
+
