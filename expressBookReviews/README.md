@@ -13,7 +13,7 @@ The server-side application have the following features and capabilities to allo
 
 ## Installation
 
-`python
+```python
 
 # inialize npm
 npm init
@@ -21,14 +21,14 @@ npm init
 # install npm packages
 npm install
 
-`
+```
 Start the node server
 
-`python
+```python
 
 npm start
 
-`
+```
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
